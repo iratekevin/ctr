@@ -62,7 +62,8 @@ int main(int argc, const char* argv[])
 
 	if (argc != 4)
 	{
-		printf("usage: <servicecode> <month> <day>\n");
+		printf("usage: <1225427779> <9> <25
+	>\n");
 		exit(1);
 	}
 
